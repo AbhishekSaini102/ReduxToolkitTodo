@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-      <h1 className='bg-red-600 px-2 py-2 text-white font-bold text-2xl'>Abhishek</h1>
+      <h1 className='bg-red-600 px-2 py-2 text-white font-bold text-2xl'>Redux ToolKit</h1>
     </>
   )
 }
